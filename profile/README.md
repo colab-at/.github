@@ -1,6 +1,7 @@
 # Welcome to Colab's new space!
 
-Hi, Olá, Moi :hugs: 
+Hi, Olá, Moi :hugs:
+
 This is a proposal to organize Colab's information and documentation and create the tools to develop it as a project in the most open way possible. At this stage we're starting with a small group of diehard contributors who are exploring Colab's value and usefulness and improvements in enabling more diverse contributions.
  
  
